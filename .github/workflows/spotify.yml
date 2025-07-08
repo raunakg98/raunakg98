@@ -8,7 +8,7 @@ jobs:
   spotify:
     runs-on: ubuntu-latest
     steps:
-      - uses: kittinan/spotify-github-profile@v1
+      - uses: kittinan/spotify-github-profile@master
         with:
           username: v5nv4l5yu733wzvej1rxn4gcb          # spotify UID
           

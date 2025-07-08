@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: "*/10 * * * *"      # every 10 min
   workflow_dispatch:
+  
+permissions:          
+  contents: write  
 
 jobs:
   spotify:
@@ -16,3 +19,4 @@ jobs:
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
           output_image: spotify.svg
+          write_file: true

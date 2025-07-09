@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Raunak</h1>
 
 <p align="center">
-  I am a full-stack data scientist (a data nerd) who loves finding hiddne narratives in data. &nbsp<br>
+  I am a full-stack data scientist (a data nerd) who loves finding hidden narratives in data. &nbsp<br>
   When I'm not coding, you'll either find me gaming or hiking or playing my guitar.
 </p>
 

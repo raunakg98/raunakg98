@@ -29,7 +29,7 @@
 ---
 
 ## Tech & Tools I Work With
-<p align="center"> <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python">&nbsp; <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="R">&nbsp; <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL">&nbsp; <img src="/images/tableau.png" height="40" alt="Tableau">&nbsp; <img src="images/powerbi.png" height="40" alt="Power BI">&nbsp; <img src="/images/aws.png" height="40" alt="AWS">&nbsp; <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++">&nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript">&nbsp; <img src="/images/looker.png" height="40" alt="Looker"> </p> ```
+<p align="center"> <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python">&nbsp; <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="R">&nbsp; <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL">&nbsp; <img src="/images/tableau.png" height="40" alt="Tableau">&nbsp; <img src="images/powerbi.png" height="40" alt="Power BI">&nbsp; <img src="/images/aws.png" height="40" alt="AWS">&nbsp; <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++">&nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript">&nbsp; <img src="/images/looker.png" height="40" alt="Looker"> </p>
 
 ---
 

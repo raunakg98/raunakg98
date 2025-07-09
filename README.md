@@ -1,13 +1,15 @@
 <!-- === Banner ========================================================== -->
 <p align="center">
   <img src="images/banner.png" alt="banner" width="70%">
+  <br>
+  <sub><em>(yes, it’s AI‑generated :P)</em></sub>
 </p>
 
 <h1 align="center">Hi, I'm Raunak</h1>
 
 <p align="center">
-  I am a full-stack data scientist (a data nerd) who loves finding hiddne narratives in data &nbsp<br>
-  When I'm not coding, you'll either find me gaming or hiking or playing my guitar
+  I am a full-stack data scientist (a data nerd) who loves finding hiddne narratives in data. &nbsp<br>
+  When I'm not coding, you'll either find me gaming or hiking or playing my guitar.
 </p>
 
 <!-- === Visitor counter (auto-increments) =============================== -->
@@ -15,20 +17,12 @@
   <img src="https://komarev.com/ghpvc/?username=raunakg98&style=flat&color=blue" alt="profile views">
 </p>
 
----
-
-## Tech & Tools
-<!-- Swap in icons later – example format shown -->
-<!-- ![Python](https://cdn.simpleicons.org/python/3776AB?style=for-the-badge&logoColor=white) -->
-*Coming soon…*
-
----
-
-## GitHub analytics
+## What my GitHub looks like
 
 | | |
 |---|---|
 | ![Streak](https://streak-stats.demolab.com?user=raunakg98&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakg98&layout=compact&theme=tokyonight&langs_count=8) |
+
 
 ---
 
@@ -37,7 +31,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 - **How I Built a $0 Text‑Summarizer That Saves My Sanity**  
-  <https://medium.com/@raunakghawghawe07/how-i-built-a-zero-dollar-serverless-summarizer-123abc>
+  <https://medium.com/@raunakghawghawe07/how-i-built-a-0-text-summarizer-that-saves-my-sanity-331cd4e96081>
 
 *(see all posts at **<https://medium.com/@raunakghawghawe07>**)*
 
@@ -45,6 +39,7 @@
 
 ## Now playing on my Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=v5nv4l5yu733wzvej1rxn4gcb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=v5nv4l5yu733wzvej1rxn4gcb&redirect=true)
+
 ---
 
 ## Come say Hi
@@ -56,3 +51,12 @@
   <a href="https://medium.com/@raunakghawghawe07"><img height="64" src="https://cdn.simpleicons.org/medium"></a>&nbsp;&nbsp;
   <a href="mailto:raunakghawghawe07@gmail.com"><img height="64" src="https://cdn.simpleicons.org/gmail"></a>
 </p>
+
+---
+
+## Tech & Tools
+<!-- Swap in icons later – example format shown -->
+<!-- ![Python](https://cdn.simpleicons.org/python/3776AB?style=for-the-badge&logoColor=white) -->
+*Coming soon…*
+
+---

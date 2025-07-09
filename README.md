@@ -17,6 +17,9 @@
   <img src="https://komarev.com/ghpvc/?username=raunakg98&style=flat&color=blue" alt="profile views">
 </p>
 
+## My Techie
+*Coming soon…*
+
 ## What my GitHub looks like
 
 | | |
@@ -42,7 +45,7 @@
 
 ---
 
-## Come say Hi
+## Come say Hi!
 
 <p align="center">
   <a href="https://instagram.com/i_ronik"><img height="64" src="https://cdn.simpleicons.org/instagram"></a>&nbsp;&nbsp;

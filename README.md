@@ -26,6 +26,10 @@
 |---|---|
 | ![Streak](https://streak-stats.demolab.com?user=raunakg98&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakg98&layout=compact&theme=tokyonight&langs_count=8) |
 
+---
+
+## Tech & Tools I Work With
+<p align="center"> <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python">&nbsp; <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="R">&nbsp; <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL">&nbsp; <img src="/images/tableau.png" height="40" alt="Tableau">&nbsp; <img src="images/powerbi.png" height="40" alt="Power BI">&nbsp; <img src="/images/aws.png" height="40" alt="AWS">&nbsp; <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++">&nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript">&nbsp; <img src="looker.png" height="40" alt="Looker"> </p> ```
 
 ---
 
@@ -54,12 +58,3 @@
   <a href="https://medium.com/@raunakghawghawe07"><img height="64" src="https://cdn.simpleicons.org/medium"></a>&nbsp;&nbsp;
   <a href="mailto:raunakghawghawe07@gmail.com"><img height="64" src="https://cdn.simpleicons.org/gmail"></a>
 </p>
-
----
-
-## Tech & Tools
-<!-- Swap in icons later – example format shown -->
-<!-- ![Python](https://cdn.simpleicons.org/python/3776AB?style=for-the-badge&logoColor=white) -->
-*Coming soon…*
-
----

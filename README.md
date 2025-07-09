@@ -9,7 +9,7 @@
 
 <p align="center">
   I am a full-stack data scientist (a data nerd) who loves finding hidden narratives in data. &nbsp<br>
-  When I'm not coding, you'll either find me gaming or hiking or playing my guitar.
+  When I'm not coding, you'll either find me gaming, hiking or strumming my guitar.
 </p>
 
 <!-- === Visitor counter (auto-increments) =============================== -->

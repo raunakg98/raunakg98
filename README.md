@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=raunakg98&style=flat&color=blue" alt="profile views">
 </p>
 
-## My Techie
+## My Techie side
 *Coming soon…*
 
 ## What my GitHub looks like
